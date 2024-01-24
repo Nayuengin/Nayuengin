@@ -9,6 +9,8 @@
 - 👯 I'm looking to collaborate with other developers
 - ⚡ Fun fact: I love to play FFXIV
 
+I love tinkering with code and building cool, sometimes quirky web projects, and I'm also a big fan of commanding Pals in Palworld.
+
 ### Languages and Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
