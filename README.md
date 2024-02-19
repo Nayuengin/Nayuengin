@@ -1,6 +1,5 @@
 ### Hi there, I'm Nayu-Engin 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nayu_Engin?style=social)](https://twitter.com/Nayu_Engin)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/nayushi)
 
 ## I'm a Web Full Stack Engineer, Blogger, and Lifelong Learner!
